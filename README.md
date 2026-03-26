@@ -1,28 +1,42 @@
 # 🧮 Calculadora em Java
 
-Projeto simples de uma calculadora desenvolvida em Java, com o objetivo de praticar lógica de programação e operações matemáticas básicas.
+Aplicação simples de calculadora desenvolvida em Java, com operações matemáticas básicas.
 
 ## 🚀 Funcionalidades
 
 * Soma
 * Subtração
 * Multiplicação
-* Divisão
+* Divisão (com tratamento para divisão por zero)
 
 ## 🛠️ Tecnologias utilizadas
 
 * Java
 
+## ▶️ Como executar o projeto
+
+1. Compile o arquivo:
+
+```
+javac Calculadora.java
+```
+
+2. Execute o programa:
+
+```
+java Calculadora
+```
+
+3. Escolha a operação desejada no menu
+
 ## 📌 Objetivo
 
-Este projeto foi desenvolvido para treinar lógica de programação e estrutura de decisões em Java.
+Este projeto foi desenvolvido para praticar lógica de programação, uso de métodos e estruturas condicionais em Java.
 
-## ▶️ Como executar
+## 📞 Contato
 
-1. Compile o código
-2. Execute o programa
-3. Escolha a operação desejada
+* GitHub: https://github.com/nilton-araripe-dev
 
 ---
 
-💡 Projeto de estudo
+💡 Projeto de estudo em evolução
